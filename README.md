@@ -2,7 +2,7 @@ Here are the files for the Long Live The Queen Google Translated 20 times mod.
 If you want to see the mod in action, here's a video of a full run using it: https://youtu.be/xDUc19HNyR0
 
 # How to use
-- Download it and unzip it or whatever. The mod folder you end up with is named "translations".
+- Download the LLTQ_googletranslate_v1.0.0.zip file from the Releases section. The mod folder you end up with is named "translations".
 - Find your Long Live The Queen folder on your PC. On Steam you can find it by going to the LLTQ page in your library, clicking on the cog wheel, selecting "Manage", then selecting "Browse local files".
 - Go into the folder labelled "game".
 - Paste the mod folder "translations" in there.
